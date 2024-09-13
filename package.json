@@ -2,14 +2,13 @@
   "name": "03_npm",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
+    "star": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "responsimple": "^1.0.1"
-  }
+  "description": ""
 }
